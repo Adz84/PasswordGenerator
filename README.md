@@ -27,7 +27,7 @@ Prerequisites
 Installation
 Clone the repository (or download the script directly):
 
-- git clone https://github.com/Adz84/secure-password-generator.git
+- git clone [https://github.com/EvilBeautyUK/SecurePasswordGenerator].git
 - cd secure-password-generator
 
 No further installation is required! This script uses only standard Python libraries.
